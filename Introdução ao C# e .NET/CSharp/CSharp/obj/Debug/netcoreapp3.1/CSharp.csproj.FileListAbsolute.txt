@@ -1,0 +1,14 @@
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.AssemblyReference.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Introdução ao C# e .NET\CSharp\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache

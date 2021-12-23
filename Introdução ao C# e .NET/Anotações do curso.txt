@@ -1,0 +1,14 @@
+namespace - separar e organizar classes
+não pode ter mais de uma classe com o mesmo nome dentro de um namespace
+com o mesmo nome só poderá ser criada outra classe em outro namespace
+
+classes
+membros = tudo que estiver dentro da classe
+objeto = instância da classe
+
+Interface
+classe base que serve de base para outras
+
+Enum
+conjunto de constantes nomeadas que começa em 0 e aumenta de 1 em 1
+
