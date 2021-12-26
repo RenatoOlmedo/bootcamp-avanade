@@ -3,10 +3,11 @@
 namespace revisao
 {
     class Program
-    {
-        Aluno[] alunos = new Aluno[5];
+    {      
         static void Main(string[] args)
         {
+            Aluno[] alunos = new Aluno[5];
+            int i = 0;
             string op = opcaoUsuario();
 
             while (op.ToUpper() != "X")
@@ -18,19 +19,40 @@ namespace revisao
                         Aluno a = new Aluno();
                         a.Nome = Console.ReadLine();
 
-                        Console.WriteLine("Informe a nota do aluno:");     
-                        a.Nota = decimal.Parse(Console.ReadLine());
+                        Console.WriteLine("Informe a nota do aluno:");  
+                           
+                        if(decimal.TryParse(Console.ReadLine(), out decimal nota)){
+                            a.Nota = nota;
+                        }
+                        else{
+                            throw new ArithmeticException("O valor da nota deve ser decimal");
+                        }
+                        alunos[i] = a;
+                        i++;
 
                         break;
                     case "2":
-
+                        foreach(var j in alunos){
+                            if(!string.IsNullOrEmpty(j.Nome)){
+                                Console.WriteLine($"Nome do Aluno:{j.Nome} Nota do Aluno:{j.Nota}");
+                            }
+                        }
                         break;
                     case "3":
-
+                        decimal soma = 0;
+                        int nrAluno = 0;
+                        for (int z=0; z<alunos.Length; z++){
+                            if(!string.IsNullOrEmpty(alunos[z].Nome)){
+                                soma = soma + alunos[z].Nota;
+                                nrAluno++;
+                            }     
+                        }
+                        Console.WriteLine("A média geral é:"+ (soma/nrAluno));
                         break;
                     default:
                         throw new ArgumentOutOfRangeException();
                 }
+                Console.WriteLine();
                 op = opcaoUsuario();
             }
         }
@@ -44,9 +66,8 @@ namespace revisao
             Console.WriteLine("X- Sair");
             Console.WriteLine("----------------------");
 
-            string op = Console.ReadLine();
-            Console.WriteLine();
-            return op;
+            string op1 = Console.ReadLine();
+            return op1;
         }
     }
 }
