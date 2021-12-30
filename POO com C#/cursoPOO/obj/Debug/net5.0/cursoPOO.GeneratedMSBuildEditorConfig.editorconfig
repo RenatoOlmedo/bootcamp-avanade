@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = revisao
-build_property.ProjectDir = c:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Primeiros passos com o .NET\revisao\
+build_property.RootNamespace = cursoPOO
+build_property.ProjectDir = C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\POO com C#\cursoPOO\
