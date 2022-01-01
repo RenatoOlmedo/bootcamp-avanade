@@ -1,0 +1,16 @@
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.exe
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.deps.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.runtimeconfig.dev.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\bin\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\bin\Debug\net5.0\ExemploConstrutores.pdb
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.AssemblyReference.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfoInputs.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.AssemblyInfo.cs
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.csproj.CoreCompileInputs.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ref\ExemploConstrutores.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.pdb
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Construtores, Propriedades, Delegates e Eventos em .NET\ExemploConstrutores\obj\Debug\net5.0\ExemploConstrutores.genruntimeconfig.cache
