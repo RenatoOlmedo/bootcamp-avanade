@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Colecoes.Helper;
 
 namespace Colecoes
@@ -8,22 +9,111 @@ namespace Colecoes
     {
         static void Main(string[] args)
         {
-            OperacoesLista opLista = new OperacoesLista();
+            int[] arrayNumeros = new int[9]{1,4,8,15,19, 100, 0, 100, 100};
 
-            string[] estadosArray = new string[2]{"SC", "MT"};
-            List<string> estados = new List<string>();
-            estados.Add("SP");
-            estados.Add("MG");
-            estados.Add("BA");
+            var minimo = arrayNumeros.Min();
+            var max = arrayNumeros.Max();
+            var medio = arrayNumeros.Average();
+            var soma = arrayNumeros.Sum();
+            var diferente = arrayNumeros.Distinct().ToArray();
 
-            System.Console.WriteLine($"Quantidade de elementos da lista {estados.Count}");
+            System.Console.WriteLine("Minimo: "+minimo+" Máximo: "+max+" Médio: "+medio+" Soma: "+soma+" Array original: "+string.Join(" ,",arrayNumeros)+" Valores únicos: "+string.Join(" ,",diferente));
 
-            //opLista.imprimirListaString(estados);
+            // var numerosParesQuery =
+            //         from num in arrayNumeros
+            //         where num % 2 == 0
+            //         orderby num
+            //         select num;
+            
+            // var numerosParesMetodo = arrayNumeros.Where(x => x %2 == 0).OrderBy(x => x).ToList(); 
 
-            estados.AddRange(estadosArray);
-            estados.Insert(1, "RJ");
+            // System.Console.WriteLine("Números pares query: "+ string.Join(" ,", numerosParesQuery));
+            // System.Console.WriteLine("Números pares método: "+ string.Join(" ,", numerosParesMetodo));
+
+
+            // Dictionary<string, string> estados = new Dictionary<string, string>();
+
+            // estados.Add("SP","São Paulo");
+            // estados.Add("MG","Minas Gerais");
+            // estados.Add("RJ","Rio de Janeiro");
+
+            // foreach (var item in estados)
+            // {
+            //     System.Console.WriteLine("Chave: "+item.Key+" Valor: "+item.Value);
+            // }
+
+            // string valorProcurado = "SP";
+
+            // if (estados.TryGetValue(valorProcurado, out string estadoEncontrado)){
+            //     System.Console.WriteLine(estadoEncontrado);
+            // }
+            // else{
+            //     System.Console.WriteLine("Não foi possível encontrar a chave "+valorProcurado);
+            // }
+
+            // System.Console.WriteLine("Removendo o valor "+ valorProcurado);
+
+            // estados.Remove(valorProcurado);
+
+            // foreach (var item in estados)
+            // {
+            //     System.Console.WriteLine("Chave: "+item.Key+" Valor: "+item.Value);
+            // }
+
+            // System.Console.WriteLine("Valor original: "+ estados[valorProcurado]);
+
+            // string NovoValor = estados[valorProcurado]="Teste valor";
+
+            // System.Console.WriteLine("Valor atualizado: "+ estados[valorProcurado]);
+
+
+            // Stack<string> pilhaLivros = new Stack<string>();
+            // pilhaLivros.Push("Dom Quixote");
+            // pilhaLivros.Push("Harry Potter");
+            // pilhaLivros.Push("Jogos Vorazes");
+
+            // System.Console.WriteLine("Livros para a leitura: "+pilhaLivros.Count);
+
+            // while (pilhaLivros.Count>0)
+            // {
+            //      System.Console.WriteLine("Próximo livro para a leitura "+ pilhaLivros.Peek());
+            //      System.Console.WriteLine("Livro lido "+ pilhaLivros.Pop());
+            // }
+
+            // System.Console.WriteLine("Livros para a leitura: "+pilhaLivros.Count);
+
+            // Queue<string> fila = new Queue<string>();
+            // fila.Enqueue("Leandro");
+            // fila.Enqueue("João");
+            // fila.Enqueue("Roger"); 
+
+
+            // System.Console.WriteLine("Pessoas na fila: "+fila.Count);
+            // while (fila.Count>0)
+            // {
+            //      System.Console.WriteLine("Vez de :"+fila.Peek());
+            //      System.Console.WriteLine(fila.Dequeue()+" atendido");
+            // }
+            // System.Console.WriteLine("Pessoas na fila: "+fila.Count);
+
+
+
+            // OperacoesLista opLista = new OperacoesLista();
+
+            // string[] estadosArray = new string[2]{"SC", "MT"};
+            // List<string> estados = new List<string>();
+            // estados.Add("SP");
+            // estados.Add("MG");
+            // estados.Add("BA");
+
+            // System.Console.WriteLine($"Quantidade de elementos da lista {estados.Count}");
+
+            // //opLista.imprimirListaString(estados);
+
+            // estados.AddRange(estadosArray);
+            // estados.Insert(1, "RJ");
            
-            opLista.imprimirListaString(estados);
+            // opLista.imprimirListaString(estados);
 
             // System.Console.WriteLine("Removendo o elemento MG");
             // estados.Remove("MG");
