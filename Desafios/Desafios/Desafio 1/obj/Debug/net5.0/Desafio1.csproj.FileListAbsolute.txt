@@ -1,0 +1,16 @@
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\bin\Debug\net5.0\Desafio1.exe
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\bin\Debug\net5.0\Desafio1.deps.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\bin\Debug\net5.0\Desafio1.runtimeconfig.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\bin\Debug\net5.0\Desafio1.runtimeconfig.dev.json
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\bin\Debug\net5.0\Desafio1.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\bin\Debug\net5.0\ref\Desafio1.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\bin\Debug\net5.0\Desafio1.pdb
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.csproj.AssemblyReference.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.AssemblyInfoInputs.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.AssemblyInfo.cs
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\ref\Desafio1.dll
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.pdb
+C:\Users\Renato Olmedo\Documents\bootcamp-avanade\dio-bootcamp-avanade\Desafios\Desafios\Desafio1\obj\Debug\net5.0\Desafio1.genruntimeconfig.cache
