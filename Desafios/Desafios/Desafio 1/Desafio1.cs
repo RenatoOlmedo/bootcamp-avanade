@@ -8,25 +8,12 @@ namespace Dio
     {
         static void Main(string[] args)
         {
-            // int N = Convert.ToInt32(Console.ReadLine());
-            // while(N-- > 0)
-            // {
-            //     int val =                                ;
-            //     int newval =                         ;        //complete com a sua lógica
-            //     int resposta =                      ;
-            //     Console.WriteLine(resposta);
-            // }
-            List<int> Divisores = List<>;
-            for (int i = 0; i <= 7; i++)
-            {
-                for (int j = 0; j <= i; j++)
-                {
-                    if(Type(i/j) is int){
-                        Divisores.Add()
-
-                    }
-                }
+            int C = Convert.ToInt32(Console.ReadLine());
+            for (int i = 1; i <= C; i++){
+                int n = Convert.ToInt32(Console.ReadLine());
+                System.Console.WriteLine(n-(int)Math.Sqrt(n));
             }
+
         }
     }
 }

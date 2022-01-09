@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafios\\Desafios.csproj": {}
+    "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafio 1\\Desafios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafios\\Desafios.csproj": {
+    "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafio 1\\Desafios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafios\\Desafios.csproj",
+        "projectUniqueName": "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafio 1\\Desafios.csproj",
         "projectName": "Desafios",
-        "projectPath": "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafios\\Desafios.csproj",
+        "projectPath": "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafio 1\\Desafios.csproj",
         "packagesPath": "C:\\Users\\Renato Olmedo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafios\\obj\\",
+        "outputPath": "C:\\Users\\Renato Olmedo\\Documents\\bootcamp-avanade\\dio-bootcamp-avanade\\Desafios\\Desafios\\Desafio 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
